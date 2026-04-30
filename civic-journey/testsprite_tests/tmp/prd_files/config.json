@@ -1,0 +1,17 @@
+{
+  "status": "init",
+  "executionArgs": {
+    "projectName": "civic-journey",
+    "projectPath": "c:\\Users\\SHIVANSHU BAJPAI\\.antigravity\\VoteCast\\civic-journey",
+    "testIds": [],
+    "additionalInstruction": "Run a full frontend test using TestSprite. Verify the framer-motion components, interactions with the 'Meal' accordions, and simulating casting a vote within the Mock Ballot component to ensure the success animations trigger correctly.",
+    "serverMode": "production",
+    "envs": {
+      "API_KEY": "sk-user-xlcKryoXmpUc7NIP4jbbMGbJJqrFWVIMLScbNCs9MKI1xBr2JTrwyVe__EhNgHqNjqCj7E4ejqeItjX_vH2DRS2vrIPGvJef24_QcMT58Kv2mFvgcVLJ6jziFJRbbzbMLoI"
+    }
+  },
+  "scope": "codebase",
+  "type": "frontend",
+  "localEndpoint": "http://localhost:3000/",
+  "serverPort": 56144
+}

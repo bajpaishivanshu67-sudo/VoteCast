@@ -1,0 +1,27 @@
+version: "2"
+type: frontend
+tech_stack:
+  - TypeScript
+  - Next.js
+  - React
+  - Tailwind CSS
+  - Framer Motion
+features:
+  - name: Animated Hero
+    description: Code-based SVG animation for the landing page hero section.
+    files:
+      - src/components/Hero.tsx
+  - name: Scroll Timeline
+    description: Vertical scrolling timeline with process cards showing election steps.
+    files:
+      - src/components/ScrollTimeline.tsx
+      - src/components/ProcessCard.tsx
+  - name: Interactive Mock Ballot
+    description: A stateful mock ballot interface to practice voting.
+    files:
+      - src/components/MockBallot.tsx
+  - name: Gamification Engine
+    description: Context provider and tracker for civic rewards and badges.
+    files:
+      - src/components/CivicRewardsContext.tsx
+known_limitations: []

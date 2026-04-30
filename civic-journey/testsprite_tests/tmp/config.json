@@ -1,0 +1,18 @@
+{
+  "status": "commited",
+  "type": "backend",
+  "scope": "codebase",
+  "localEndpoint": "http://localhost:3000/c:\\\\Users\\\\SHIVANSHU BAJPAI\\\\.antigravity\\\\VoteCast\\\\civic-journey",
+  "backendAuthType": "public",
+  "executionArgs": {
+    "projectName": "civic-journey",
+    "projectPath": "c:\\Users\\SHIVANSHU BAJPAI\\.antigravity\\VoteCast\\civic-journey",
+    "testIds": [],
+    "additionalInstruction": "Verify the framer-motion components, interactions with the 'Meal' accordions, and simulating casting a vote within the Mock Ballot component to ensure the success animations trigger correctly.",
+    "serverMode": "production",
+    "envs": {
+      "API_KEY": "sk-user-xlcKryoXmpUc7NIP4jbbMGbJJqrFWVIMLScbNCs9MKI1xBr2JTrwyVe__EhNgHqNjqCj7E4ejqeItjX_vH2DRS2vrIPGvJef24_QcMT58Kv2mFvgcVLJ6jziFJRbbzbMLoI"
+    }
+  },
+  "serverPort": 52058
+}
